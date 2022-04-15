@@ -4,7 +4,7 @@ tocTitle: 'Introduction'
 description: 'The anatomy of an addon'
 ---
 
-<div class="aside">This guide is made for <b>professional developers</b> learning how to build Storybook addons. Intermediate experience in JavaScript and React is recommended. You should also know Storybook basics, such as writing a story and editing config files (<a href="/intro-to-storybook">Intro to Storybook</a> teaches basics).
+<div class="aside">This guide is made for <b>professional developers</b> learning how to build Storybook addons. Intermediate experience in JavaScript and React is recommended. You should also know Storybook basics, such as writing a story and editing config files (<a href="/intro-to-storybook">Intro to Storybook1</a> teaches basics).
 </div>
 
 <br/>

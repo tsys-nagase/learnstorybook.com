@@ -1,5 +1,5 @@
 ---
-title: 'Automate visual testing'
+title: 'Automate visual testing12'
 tocTitle: 'Automate'
 description: 'Automate visual testing to catch regressions'
 commit: 'd7daf97'
